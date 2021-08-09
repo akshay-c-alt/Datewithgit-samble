@@ -10,3 +10,9 @@
 
 
 ----------------------------------------------------------------------------FEATURE BRANCH TESTING RECURSIVE
+
+
+4.GitHub new repository generated. learning to push newly modified file in master branch that is already added in GITHUB  file
+ FOR that edit this file [YOU ALREADY CLONED THIS FILES IN GITHUB IN THE NAME OF DATEWITHGIT-SAMPLE ] and add and commit file in local pc then
+try 
+git push Hub master
